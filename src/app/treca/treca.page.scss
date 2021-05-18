@@ -1,0 +1,67 @@
+ion-content.background{  --background:url(..\..\img\poz.jpeg) 0 0/200% 100% no-repeat; }
+ion-content{
+    background-image: url(..\..\img\poz.jpeg);
+    background-size: cover;
+    text-align: center;
+
+}
+.ig{
+    margin-top: 200px;
+    width: 200px;
+}
+.content{
+    
+    margin-top:200px;
+    margin-left:350px;
+}
+
+.button-acttion{
+    margin-left:40px;
+}
+
+.singin{
+    font-size: small;
+    color: rgb(19, 131, 165);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: none;
+}
+
+ion-input{
+   background-color: #b0f4f7e0;
+   border:none;
+   columns: #535353;
+   padding: 15px 32px;
+   text-decoration: none;
+   font-size: 16px;
+   margin: 5px;
+   width: 85%;
+   border: 2px solid 0.5s ease-in-out;
+   height: 35px;
+   text-align: center;
+   margin: 0 auto;
+   margin-bottom: 10px;
+}
+
+.actionbutton{
+    margin-top: 10px;
+    text-align: center;
+    border: none;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 13px;
+    transition: all 0.3s ease-in-out;
+    width: 85%;
+    height: 35px;
+    background-color: rgb(48, 184, 177);
+
+}
+
+
+.line{
+    border-bottom: 1px solid grey;
+    margin-bottom:16px;
+}
+
